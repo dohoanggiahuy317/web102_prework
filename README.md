@@ -90,7 +90,7 @@ Time spent: **2** hours spent in total
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/nmoDV2O' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/a/nmoDV2O' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Apple screen recording, convert to gif with converto
